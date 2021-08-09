@@ -1,6 +1,6 @@
 # User-Details-Management-System
 
-## Features
+## Introduction
 An educational purpose web application developed to manage basic user details.
 
 ## Technology Stack
