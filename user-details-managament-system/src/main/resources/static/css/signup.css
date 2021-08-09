@@ -1,0 +1,15 @@
+#gender-container, #user-role-container {
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #666666;
+    display: block;
+    width: 100%;
+    background: #e6e6e6;
+    height: 125px;
+    border-radius: 25px;
+}
+
+#sign-up-logo {
+    padding-top: 10vh;
+}

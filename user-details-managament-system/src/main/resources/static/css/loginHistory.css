@@ -1,0 +1,39 @@
+@media screen and (max-width: 992px) {
+    #col-record-id {
+        display: none;
+    }
+
+    .td-record-id {
+        display: none;
+    }
+
+
+}
+
+@media screen and (max-width: 576px) {
+    #col-record-id {
+        display: none;
+    }
+
+    #col-device-type {
+        display: none;
+    }
+
+    #col-browser-name {
+        display: none;
+    }
+
+    .td-record-id {
+        display: none;
+    }
+
+    .td-browser-name {
+        display: none;
+    }
+
+    .td-device-type {
+        display: none;
+    }
+
+
+}

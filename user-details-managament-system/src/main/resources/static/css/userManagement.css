@@ -1,0 +1,101 @@
+@media screen and (max-width: 992px) {
+    #col-gender {
+        display: none;
+    }
+
+    #col-contact-number {
+        display: none;
+    }
+
+    #col-company-code {
+        display: none;
+    }
+
+    #col-user-type {
+        display: none;
+    }
+
+    #col-address {
+        display: none;
+    }
+
+    .td-gender {
+        display: none;
+    }
+
+    .td-address {
+        display: none;
+    }
+
+    .td-contact-number {
+        display: none;
+    }
+
+    .td-company-code {
+        display: none;
+    }
+
+    .td-user-role {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 576px) {
+    #col-gender {
+        display: none;
+    }
+
+    #col-contact-number {
+        display: none;
+    }
+
+    #col-company-code {
+        display: none;
+    }
+
+    #col-user-type {
+        display: none;
+    }
+
+    #col-address {
+        display: none;
+    }
+
+    #col-user-id {
+        display: none;
+    }
+
+    #last-name {
+        display: none;
+    }
+
+    .td-gender {
+        display: none;
+    }
+
+    .td-address {
+        display: none;
+    }
+
+    .td-user-id {
+        display: none;
+    }
+
+    .td-contact-number {
+        display: none;
+    }
+
+    .td-company-code {
+        display: none;
+    }
+
+    .td-user-role {
+        display: none;
+    }
+
+    .td-last-name {
+        display: none;
+    }
+
+}
