@@ -1,4 +1,4 @@
-# User-Details-Management-System
+# :two_men_holding_hands:User-Details-Management-System
 
 ## Introduction
 An educational purpose web application developed to manage basic user details.
